@@ -1,1 +1,1 @@
-custom printf with all the functions an actual function would have
+custom printf with all the functions an actual printf function would have
